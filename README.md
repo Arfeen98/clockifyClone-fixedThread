@@ -19,7 +19,9 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 </p>
 
+
 <h3 align="center"><a href="https://fixedthread-clockify.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
+
 
 <p align="center"> 
     <br />&#10023;
